@@ -4,16 +4,15 @@ main {
 	padding: 20px;
 }
 
-div {
+div.testim {
 	background-color: white;
 	border: 1px solid grey;
 	padding: 20px;
 }
 
-.writer {
-	text-align: end;
-	
-	
+p.writer {
+	text-align: right;
+	font-style: italic;	
 }
 
 
